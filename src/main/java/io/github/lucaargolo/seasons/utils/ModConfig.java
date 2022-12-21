@@ -59,7 +59,7 @@ public class ModConfig {
     }
 
     
-    private int seasonLength = 672000;
+    private int seasonLength = 1728000 ;
 
     private SeasonLock seasonLock = new SeasonLock();
 
